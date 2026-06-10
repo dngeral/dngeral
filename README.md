@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner principal -->
-  <img src="img/banner.gif" alt="Banner personalizado" width="100%" style="border-radius:12px" />
+  <img src="img/banner.gif" alt="Banner personalizado" width="100%" style="border-radius:12px; object-fit:cover; margin-top:-150px;" />
 
   <!-- Título -->
   <h1>👋 Soy <span style="color:#ffffff;">Gerardo Flores</span></h1>
@@ -11,10 +11,10 @@
   <p>
     🚀 Desarrollo <b>JS</b>, y analisis de datos con <b>SQL</b>.<br/>
     📍 La Paz, Bolivia.<br/>
-    🎵 Eletronica, Anime, Gaming.
+    🎵 Eletronica, Studio Gibli, Anime, Gaming.
   </p>
 </div>
-<img src="img/forestFriend.png" alt="friend" width="30%" />
+<img src="img/forestFriend.png" alt="friend" width="20%" />
 
   <!-- Badges de tecnologías -->
 <p align="center" style="background:#0d1117; padding:20px; border-radius:12px;">
